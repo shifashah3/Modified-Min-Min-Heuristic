@@ -13,8 +13,8 @@ This repository contains the Python implementation of the **Modified Min-Min Heu
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/muneebabadar/modified-min-min-heuristic-with-load-balancing.git
-cd modified-min-min-heuristic-with-load-balancing
+git clone https://github.com/shifashah3/Modified-Min-Min-Heuristic.git
+cd Modified-Min-Min-Heuristic
 ```
 
 ### 2. Run the Scheduler
